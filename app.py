@@ -155,6 +155,7 @@ st.write("#")
 st.subheader("Projects")
 st.write("---")
 PROJECTS = {
+     ":trophy: Social Network app": "[Link to GitHub](https://github.com/marpot/SocialNetwork) - Social Network Project. Still in progress. Fullstack application using Vue.js and Tailwind CSS for frontend and Django REST Framework for backend. ",
     ":trophy: Puddle ecommerce app": "[Link to GitHub](https://github.com/marpot/Online-Marketplace) - Online fullstack trading platform in Python and Django. Users can sell items, add items, buy items, create accounts, and log in. Administration panel manages users, deletes users, adds items, images, and changes prices. Frontend uses the Tailwind CSS framework.",
     ":trophy: Bug Tracker": "[Link to GitHub](https://github.com/marpot/BugTracker) - Application in Flask framework and Python for tracking bugs in software development.",
     ":trophy: SnakeAI": "[Link to GitHub](https://github.com/marpot/SnakeAI) - Machine learning snake game self-learning how to play to win. Used Pygame and PyTorch.",
